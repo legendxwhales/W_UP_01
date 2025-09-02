@@ -71,5 +71,6 @@ The chances of getting a result like this if there's no difference between the n
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+In this assignment I learned how to do statistical analysis with box plots and how to plug in data. I also learned that in statistics, even the smallest numbers can be really significant because they suggest a sizeable margin between variables. I was able to see how the skill players are much stronger than the line players and perform more fantastic feats. This is all thanks to the data presented in the box plots.
